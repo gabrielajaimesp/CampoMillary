@@ -1,0 +1,26 @@
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+    background-color: #dbdbdb;
+
+}
+
+.footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.icons{
+margin: 25px 0;
+}
+
+.fa{
+    color:#290902;
+    margin: 0 13px;
+    font-size: 30px;
+    cursor: pointer;
+    padding: 18px 0;
+    
+}
